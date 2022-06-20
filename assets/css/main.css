@@ -1634,7 +1634,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		background: #0090c5;
+		background: #3f7819;
 		color: #fff;
 		text-decoration: none;
 		border-radius: 6px;
@@ -1938,10 +1938,10 @@ input, select, textarea {
 	}
 
 		#logo h1 {
-			background: #ff4486;
+			background: #3f7819;
 			color: #fff;
 			border-radius: 6px;
-			font-family: 'Oleo Script', serif;
+			font: inherit;
 			font-weight: 400;
 			padding: 0.25em 0.2em 0.25em 0.2em;
 			font-size: 3.25em;
